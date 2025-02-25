@@ -116,7 +116,7 @@ img {
 .navbar__mobile-menu-items {
     position: absolute;
     top: 100%;
-    left: 0;
+    left: 1;
     width: 100%;
     background: var(--secondary-color);
     opacity: 0.95;
