@@ -116,7 +116,7 @@ img {
 .navbar__mobile-menu-items {
     position: absolute;
     top: 100%;
-    left: 1;
+    left: 0;
     width: 100%;
     background: var(--secondary-color);
     opacity: 0.95;
@@ -137,12 +137,10 @@ img {
 
 .navbar__mobile-menu-items {
     transform: translateX(100%);
-   
-}
-
-.navbar__mobile-menu-items.active {
+  }
+  
+  .navbar__mobile-menu-items.active {
     transform: translateX(0);
-   
 }
 
                 /* Hero */
