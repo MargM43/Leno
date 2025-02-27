@@ -75,7 +75,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    backdrop-filter: blur(10px);
+    /* backdrop-filter: blur(10px); */
  }
 
 .navbar__logo img {
